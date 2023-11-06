@@ -1,2 +1,2 @@
-# Mentorm-te-06.11
-Her er koden jeg ikke fikk vist frem, som vi lagde sist. Den er et forslag til løsning av Pyret oppgaven.
+# Mentormøte 06.11
+Her er koden vi lagde sist, som jeg ikke klarte å vise frem i dag. Den er et forslag til en delvis løsning av Pyret oppgaven.
